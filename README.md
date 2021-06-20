@@ -1,3 +1,4 @@
 # Personal-portfolio
 Personal portfolio in progress
-Not finished yet
+I used Html Css and Javascript
+
